@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab04_The_order_of_matrix_multiplication", "Lab04_The_order_of_matrix_multiplication\Lab04_The_order_of_matrix_multiplication.vcxproj", "{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Debug|x64.ActiveCfg = Debug|x64
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Debug|x64.Build.0 = Debug|x64
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Debug|x86.Build.0 = Debug|Win32
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Release|x64.ActiveCfg = Release|x64
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Release|x64.Build.0 = Release|x64
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Release|x86.ActiveCfg = Release|Win32
+		{9EA1FDAA-C64C-40BA-B7D5-57EA591400B8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D775BB25-79F0-46FD-8F0A-945775C85B36}
+	EndGlobalSection
+EndGlobal

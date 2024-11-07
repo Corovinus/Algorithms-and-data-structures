@@ -1,0 +1,3 @@
+﻿  43.2_Huffman.cpp
+D:\Progs\Algorithms\43.2_Huffman\43.2_Huffman\43.2_Huffman.cpp(8,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  43.2_Huffman.vcxproj -> D:\Progs\Algorithms\43.2_Huffman\x64\Debug\43.2_Huffman.exe
