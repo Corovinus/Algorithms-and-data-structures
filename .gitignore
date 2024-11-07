@@ -360,4 +360,13 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
-FodyWeavers.xsd
+**/bin/
+**/obj/
+
+# Игнорирование временных и кэшированных файлов
+**/.vs/
+**/.idea/
+**/.vscode/
+
+# Игнорирование специфических файлов для других инструментов
+node_modules/
