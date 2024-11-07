@@ -1,3 +1,0 @@
-﻿  0.6_Palindrom.cpp
-D:\Progs\Project\0.6_Palindrom\0.6_Palindrom\0.6_Palindrom.cpp(12,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  0.6_Palindrom.vcxproj -> D:\Progs\Project\0.6_Palindrom\x64\Debug\0.6_Palindrom.exe
