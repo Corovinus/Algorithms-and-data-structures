@@ -1,0 +1,5 @@
+﻿  0.2Units.cpp
+D:\Progs\Project\0.2Units\0.2Units\0.2Units.cpp(6,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  0.2Units.vcxproj -> D:\Progs\Project\0.2Units\x64\Debug\0.2Units.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
